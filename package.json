@@ -1,6 +1,6 @@
 {
   "name": "mongodb-fixture",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MongoDB fixture utility for testing",
   "keywords": [
     "mongodb",
